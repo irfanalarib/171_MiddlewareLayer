@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/irfanalarib/171_MiddlewareLayer/issues"
   },
-  "homepage": "https://github.com/irfanalarib/171_MiddlewareLayer#readme"
+  "homepage": "https://github.com/irfanalarib/171_MiddlewareLayer#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "joi": "^18.3.0",
+    "pg": "^8.23.1"
+  }
 }
